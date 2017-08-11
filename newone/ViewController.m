@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSArray *arr = [NSArray new];
+    NSDictionary *dic = [NSDictionary new];
 }
 
 
